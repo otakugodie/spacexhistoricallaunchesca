@@ -10,6 +10,6 @@ Currently, two official plugins are available:
 
 
 # REACT CURSO Práctico DESDE CERO - Desarrolla una app con React.js PASO A PASO
-https://www.youtube.com/watch?v=4AFOCAgywLc
-https://www.youtube.com/watch?v=afDXVnDnBf4
-@Carlos Azaustre
+- Curso práctico REACT desde cero, clase 1 (https://www.youtube.com/watch?v=4AFOCAgywLc)
+- Curso práctico REACT desde cero, clase 2 (https://www.youtube.com/watch?v=afDXVnDnBf4)
+- @Carlos Azaustre
